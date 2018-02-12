@@ -32,6 +32,10 @@ An **interactive plot** was created in **matplotlib** that showed the neighbourh
 
 ![alt text](https://github.com/JP-DataScienceProjects/TorontoHousingAffordabilityAnalysis/blob/master/Screenshots/FinalPlot.png)
 
+The **numerical data** for the **top 20 least affordable neighbourhoods** is shown below:
+
+![alt text](https://github.com/JP-DataScienceProjects/TorontoHousingAffordabilityAnalysis/blob/master/Screenshots/FinalTable.png)
+
 ### Datasets
 I used the following data sources (note that the latest available data was from 2011):
 
